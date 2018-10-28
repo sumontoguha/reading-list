@@ -2,7 +2,7 @@
 
 Hello, World!
 
-Hyi!
+Hi!
 
 ## Steps to install
 
